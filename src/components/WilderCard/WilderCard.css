@@ -1,0 +1,33 @@
+.MuiCard-root{
+    width: 300px;
+}
+
+.MuiCardHeader-root{
+    background-color: black;
+}
+
+.MuiCardContent-root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #C0C0C0;
+    padding-bottom: 16px !important;
+    height: 120px;
+}
+
+.wildercard_label{
+    font-weight: bold;
+}
+
+.wildercard_iconAndName{
+    display: flex;
+    align-items: center;
+}
+
+.wildercard_skills{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+    height: 50%;
+}

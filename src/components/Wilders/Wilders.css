@@ -1,0 +1,17 @@
+.wilders_container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wilders_wilders{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.wilders_addBtn{
+    margin-top: 2% !important;
+    margin-bottom: 2% !important;
+}
